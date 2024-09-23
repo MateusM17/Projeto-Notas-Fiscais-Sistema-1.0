@@ -1,0 +1,10 @@
+/* Definindo o estilo da página */
+body {
+  background-color: #3b4147; /* Define uma cor de fundo escura para o corpo da página */
+  color: white; /* Define a cor do texto como branco para garantir a legibilidade sobre o fundo escuro */
+}
+
+/* Estilizando a tabela */
+.tabela {
+  margin-top: 10px; /* Adiciona uma margem superior de 10 pixels à tabela, separando-a de elementos acima */
+}
